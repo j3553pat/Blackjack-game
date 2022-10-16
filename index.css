@@ -28,3 +28,10 @@ button {
 .newcard {
     margin: 4px;
 }
+
+@media screen and (min-width: 699px) {
+    body {
+        background: red;
+    }
+
+}
